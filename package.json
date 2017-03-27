@@ -1,0 +1,32 @@
+{
+  "name": "about",
+  "version": "1.0.0",
+  "description": "gulp 在一个页面中的使用",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-file-include": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^2.1.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengwuhen/gulp-in-page.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "mengwuhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengwuhen/gulp-in-page/issues"
+  },
+  "homepage": "https://github.com/mengwuhen/gulp-in-page#readme"
+}
