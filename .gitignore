@@ -1,3 +1,4 @@
-##ignore this file##
+#ignore this file
 /bower_components
 /node_modules
+/dist
